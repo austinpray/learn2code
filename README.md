@@ -6,6 +6,7 @@ Hey there! Here is my attempt at teaching my friends and coworkers basic coding 
 
 - You need [a GitHub account](https://github.com/join)!
 - You need **a text editor**. I recommend just using [Atom](https://atom.io/) if you don't know what I am talking about.
+- [Google Chrome](https://www.google.com/chrome/). We will be using the Google Chrome dev tools at some point.
 
 ## Courses
 
