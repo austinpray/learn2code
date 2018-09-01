@@ -33,7 +33,7 @@ At the end of this lesson we will have published a live [GitHub Pages](https://p
 - Basic CSS
 - Basic [git version control](https://git-scm.com/video/what-is-version-control)
 
-[let's go!](./web/1.md)
+[**Go to Lession 1**](./web/1.md)
 
 #### Lesson 2
 
