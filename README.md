@@ -16,7 +16,7 @@ The GitHub repo for this website lives [here](https://github.com/austinpray/lear
 
 Since web coding is very visually oriented it is a great place to start as a beginner. We will start with a basic website and then build an actual blog using [GitHub Pages](https://pages.github.com/) that will function similar to [my personal website](https://austinpray.com/).
 
-The first thing you need to do is add yourself to the list of students below! There is a link at the bottom right of this page that lets you edit it.
+**The first thing you need to do is add yourself to the list of students below!** There is a link at the bottom right of this page that lets you edit it.
 
 <!-- Add yourself to the list below in this format: [Austin Pray](htts://github.com/austinpray) -->
 <!-- If you need help with markdown have a look at: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
