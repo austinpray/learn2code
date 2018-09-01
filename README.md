@@ -2,6 +2,8 @@
 
 Hey there! Here is my attempt at teaching my friends and coworkers basic coding skills. I am going to start with basic "coding" skills and then gradually introduce actual programming.
 
+The GitHub repo for this website lives [here](https://github.com/austinpray/learn2code).
+
 ## Prereqs
 
 - You need [a GitHub account](https://github.com/join)!
